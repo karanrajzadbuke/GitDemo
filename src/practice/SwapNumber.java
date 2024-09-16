@@ -14,6 +14,7 @@ public class SwapNumber {
     
     System.out.println("Before swap :" + a);
     System.out.println("After swap :" +b);
+    System.out.println("123");
     
  }
 }
